@@ -6,6 +6,7 @@ This README would normally document whatever steps are necessary to get your app
 
 * Quick summary
 * Version
+-   Bootstrap 5.0.2
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
