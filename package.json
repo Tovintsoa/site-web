@@ -1,0 +1,23 @@
+{
+  "name": "site-web",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.0.2"
+  },
+  "devDependencies": {
+    "stylelint": "^14.0.1",
+    "stylelint-config-standard": "^23.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Tovintsoa@bitbucket.org/Tovintsoa/site-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Tovintsoa/site-web#readme"
+}
